@@ -11,7 +11,6 @@ A full-stack web platform that connects **farmers, wholesalers, and consumers** 
 - 📦 **Dynamic Product Listings** for horticultural crops  
 - 📊 **Dashboard Insights** for data-driven decisions  
 - 💾 **PHP + MySQL Backend** for efficient data storage and processing  
-- 🔗 **API Integration** enabling frontend-backend communication
 
 ---
 
