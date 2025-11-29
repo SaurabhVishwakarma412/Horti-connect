@@ -89,6 +89,3 @@ Start a local server using **XAMPP** or **WAMP** and open the project in your br
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
