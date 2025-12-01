@@ -38,7 +38,7 @@ Horti-Culture-Connect/
 │   ├── config/
 │   └── controllers/
 └── database/
-    └── horticulture.sql
+    └── user.sql
 ```
 
 ---
